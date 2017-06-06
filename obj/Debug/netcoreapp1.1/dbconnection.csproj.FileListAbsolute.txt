@@ -1,0 +1,8 @@
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/bin/Debug/netcoreapp1.1/dbconnection.deps.json
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/bin/Debug/netcoreapp1.1/dbconnection.runtimeconfig.json
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/bin/Debug/netcoreapp1.1/dbconnection.runtimeconfig.dev.json
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/bin/Debug/netcoreapp1.1/dbconnection.dll
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/bin/Debug/netcoreapp1.1/dbconnection.pdb
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/obj/Debug/netcoreapp1.1/dbconnection.AssemblyInfo.cs
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/obj/Debug/netcoreapp1.1/dbconnection.dll
+/home/george/_works/learning/udemy/csharpintermediate/dbconnection/obj/Debug/netcoreapp1.1/dbconnection.pdb
